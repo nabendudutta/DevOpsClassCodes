@@ -21,7 +21,7 @@ Importing in IntelliJ IDEA 14
 --------------------
 These instructions were tested on IntelliJ IDEA 14 CE. You can get it from https://www.jetbrains.com/idea/
 
-To get the project up and running in IDEA, do:
+To get the project up and running in IDEA, do:add
 - File -> New -> Project from Version Control -> Git
 - The URL to use is https://github.com/vaadin/addressbook.git
 - If you get a message about "Non-managed pom.xml file found". Choose "Add as Maven Project"
