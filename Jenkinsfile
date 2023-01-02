@@ -52,7 +52,7 @@ finally {
      // currentBuild.result must be non-null for this step to work.
      step([$class: 'Mailer',
         notifyEveryUnstableBuild: true,
-        recipients: 'shubham.k@edureka.co',
+        recipients: 'nabendu.dutta89@gmail.com',
         sendToIndividuals: true])
  }
 }
